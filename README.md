@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harnoor, and you can call me harry.
 - 👀 I’m interested in databases, networks and music! 
-- 🌱 I’m currently learning advanced SQL querying
-- 💞️ I’m looking to collaborate on Database design projects
+- 🌱 I’m currently learning advanced SQL querying, Visualization and Programming.
+- 💞️ I’m looking to collaborate on Database design projects.
 - 📫 How to reach me: linkedin: www.linkedin.com/in/harnoor949/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a singer/songwriter on the side! :D
